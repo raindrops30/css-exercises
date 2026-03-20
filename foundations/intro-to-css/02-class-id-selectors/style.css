@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #ff9999;
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #3333ff;
+    font-size: 36px;
+}
+
+#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #66ff66;
+    font-weight: bold;
+}
